@@ -1,0 +1,15 @@
+git config --global user.name "Tony Sobreira"
+git config --global user.email "tonysobreira@gmail.com"
+
+git status
+
+git add .
+
+git commit -m ""
+
+git log
+git log --oneline
+
+git remote add origin https://github.com/tonysobreira/cursomc.git
+git push -u origin main
+
